@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ChinmoyMohanty
+- 👋 Hi, I’m @ChinmayMohanty
 - 👀 I’m interested in Java
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on desired programs and codes
