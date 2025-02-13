@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on desired programs and codes
 - 📫 c.mohanty4345@gmail.com
-- 😄 Pronouns: He/Yours
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: They think they know about me.
 
 <!---
