@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChinmayMohanty
 - 👀 I’m interested in Java
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on desired programs and codes
 - 📫 c.mohanty4345@gmail.com
 - 😄 Pronouns: He/Yours
